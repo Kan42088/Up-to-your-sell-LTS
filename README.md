@@ -1,4 +1,5 @@
 # Up-to-your-sell-LTS
+
 *Note: 
 - Plugin là file zip trong file được tải về.
 - Bản ổn định hiện tại: v1.2.0
