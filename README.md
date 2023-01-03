@@ -4,6 +4,9 @@
 - Plugin là file zip trong file được tải về.
 - Bản ổn định hiện tại: v2.0.1
 
+*Bản 2.1.0:
+- thêm điều kiện kiểm tra giá mỗi sản phẩm phải lớn hơn $0 trước khi add mã giảm giá.
+
 *Bản 2.0.1:
 - Sửa lỗi tạo bảng database.
 
